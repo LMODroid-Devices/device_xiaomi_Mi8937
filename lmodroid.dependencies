@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "LMODroid-Devices/device_xiaomi_mithorium-common",
+    "target_path": "device/xiaomi/mithorium-common"
+  }
+]
